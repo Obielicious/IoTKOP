@@ -1,0 +1,14 @@
+owlready2 
+langchain 
+langchain-community 
+langchain-openai 
+langchain-pinecone 
+sentence-transformers 
+docarray 
+scikit-learn 
+pandas 
+matplotlib 
+python-dotenv 
+httpx 
+tenacity 
+rdflib
