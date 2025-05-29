@@ -12,8 +12,6 @@
   
   3. Create a .env file for secure coding for variables like:
     OPENAI_API_KEY = [ENTER OPENAI API KEY]
-    PINECONE_API_KEY = [ENTER PINECONE API KEY]
-    PINECONE_API_ENV = [ENTER PINECONE API ENVIRONMENT]
 
 # License:
 All rights reserved. © 2025.   
