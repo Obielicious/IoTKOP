@@ -1,6 +1,7 @@
-# IoTKOP
-# Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment
 # This repository contains research materials that explores real-time cybersecurity compliance for Internet of Things (IoT) systems using ontology-driven automation.
+
+# Publication:
+# Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment
 # SSRN Author publication page: https://ssrn.com/author=7622775
 # SSRN Abstract publication page: http://ssrn.com/abstract=5248781
 
