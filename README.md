@@ -7,6 +7,7 @@
 # ii) Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment
   # SSRN Author publication page: https://ssrn.com/author=7622775
   # SSRN Abstract publication page: http://ssrn.com/abstract=5248781
+  # Computers and Security publication page: https://doi.org/10.1016/j.cose.2025.104711
 
 # Setup:
   1. Create an optimal virtual environment:
