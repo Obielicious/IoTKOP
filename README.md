@@ -5,9 +5,9 @@
   # IEEE Author publication page: https://ieeexplore.ieee.org/author/794797674815887
   # IEEE conference publication page: https://ieeexplore.ieee.org/document/10825755
 # ii) Scalable Automation for IoT CyberSecurity Compliance: Ontology-Driven Reasoning for Real-Time Assessment
-  # SSRN Author publication page: https://ssrn.com/author=7622775
-  # SSRN Abstract publication page: http://ssrn.com/abstract=5248781
-  # Computers and Security publication page: https://doi.org/10.1016/j.cose.2025.104711
+  # Elsevier Scopus Author publication page: http://www.scopus.com/inward/authorDetails.url?authorID=59561644200&partnerID=MN8TOARS
+  # Elsevier Abstract publication page: https://www.sciencedirect.com/science/article/abs/pii/S0167404825004006
+  # Computers and Security DOI: https://doi.org/10.1016/j.cose.2025.104711  
 
 # Setup:
   1. Create an optimal virtual environment:
